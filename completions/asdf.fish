@@ -1,0 +1,1 @@
+/home/dan/.asdf/completions/asdf.fish
